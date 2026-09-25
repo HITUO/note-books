@@ -210,7 +210,7 @@ int main() {
     load_notes();
     int op;
     while (true) {
-        cout << "\n====NoteBooks Version1.0====" << endl;
+        cout << "\n====NoteBooks v1.0====" << endl;
         cout << "当前笔记本文件：" << current_file << endl;
         cout << "1 添加笔记" << endl;
         cout << "2 查看全部笔记" << endl;
