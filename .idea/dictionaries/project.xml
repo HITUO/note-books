@@ -2,7 +2,9 @@
   <dictionary name="project">
     <words>
       <w>Hant</w>
+      <w>cout</w>
       <w>fout</w>
+      <w>setw</w>
     </words>
   </dictionary>
 </component>
